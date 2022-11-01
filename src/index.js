@@ -4,7 +4,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import * as serviceWorkerRegistration from './serviceWorkerRegistration';
+// import * as serviceWorkerRegistration from './serviceWorkerRegistration.js.old';
 import reportWebVitals from './reportWebVitals';
 
 
@@ -16,6 +16,6 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-serviceWorkerRegistration.unregister();
+// serviceWorkerRegistration.unregister();
 
 reportWebVitals();
