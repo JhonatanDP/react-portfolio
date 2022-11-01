@@ -4,7 +4,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-// import * as serviceWorkerRegistration from './serviceWorkerRegistration.js.old';
+import * as serviceWorkerRegistration from './serviceWorkerRegistration.js';
 import reportWebVitals from './reportWebVitals';
 
 
@@ -15,7 +15,6 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-// serviceWorkerRegistration.unregister();
+serviceWorkerRegistration.unregister();
 
 reportWebVitals();
