@@ -49,7 +49,7 @@
     {
         "id": 7,
         "name": "Alex-Salon",
-        "image": "https://github.com/OmarDGreat/Alexs-Salon/blob/main/server/Screenshot%202022-11-17%20at%2010.01.37%20PM.png",
+        "image": "https://github.com/OmarDGreat/Alexs-Salon/blob/main/server/Screenshot%202022-11-17%20at%2010.01.37%20PM.png?raw=true",
         "github": "https://github.com/OmarDGreat/Alexs-Salon",
         "deploy": "https://alex-salon.herokuapp.com/",
         "topics": "React, CSS, MongoDB, Node, JWT"
