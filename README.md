@@ -1,13 +1,13 @@
 # React Portfolio
 
-Project Repository address:
+### Project Repository address:
 https://github.com/JhonatanDP/react-portfolio
 
-Heroku deployment address:
+### Heroku deployment address:
 https://jhonatandp.github.io/react-portfolio/
 
-Application Pics
-pacific-thicket-28757 herokuapp com_notes pacific-thicket-28757 herokuapp com_notes (1)
+### Application Pics
+![react-portfolio](https://user-images.githubusercontent.com/106892660/199359550-d6b11064-510f-441b-b53e-9260dc183ae4.png)
 
 ## User Story
 - AS AN employer looking for candidates with experience building single-page applications
