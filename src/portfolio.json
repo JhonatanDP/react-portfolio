@@ -45,5 +45,13 @@
         "github": "https://github.com/JhonatanDP/jd_tech_blog",
         "deploy": "https://jd-tech-blog.herokuapp.com/",
         "topics": "html, CSS, MySQL, Node"
+    },
+    {
+        "id": 7,
+        "name": "Alex-Salon",
+        "image": "https://github.com/OmarDGreat/Alexs-Salon/blob/main/server/Screenshot%202022-11-17%20at%2010.01.37%20PM.png",
+        "github": "https://github.com/OmarDGreat/Alexs-Salon",
+        "deploy": "https://alex-salon.herokuapp.com/",
+        "topics": "React, CSS, MongoDB, Node, JWT"
     }
 ]
